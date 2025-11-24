@@ -4,7 +4,7 @@ SUBCATEGORIES: # Under here, you list all the subcategories
     - CAYMANAIR
   APPS:
     - 1PASSWORD
-  AUTO_SERVICE:
+  AUTO SERVICE:
     - AUDI
     - BIMMER HAUS
     - MIKES
@@ -16,13 +16,17 @@ SUBCATEGORIES: # Under here, you list all the subcategories
     - SEPHORA
     - ATHENA
     - BILLIE
+    - MODERE
+    - OlIVE TREE
+    - COCOFLOSS
   BOOZE:
     - BASELINE LIQUORS
     - BIG LIQUOR WAREHOUSE
     - BROADLANDS LIQUORS
   BUSINESS:
     - AIM MAIL
-  CAR_RENTAL:
+    - UPS STORE
+  CAR RENTAL:
     - AVIS
     - BUDGET RENT A CAR
   CHARITY:
@@ -40,12 +44,14 @@ SUBCATEGORIES: # Under here, you list all the subcategories
     - BABYBOO FASHION
     - BUSTED TEES
     - CLAIRES
+    - LUCY IN THE SKY
+    - TEAMFANSHOP
   COFFEE:
-    - STAR BUCKS
+    - STARBUCKS
     - NESPRESSO
     - BONA COFFEE
     - COFFEE HOUSE 29
-  COLLEGE_PREP:
+  COLLEGE PREP:
     - COLLEGEBOARD*SAT
   DELIVERY:
     - ABOS
@@ -69,7 +75,7 @@ SUBCATEGORIES: # Under here, you list all the subcategories
     - CALI PIZZA KITC
     - CASA BONITA
     - CASA TEQUILAS
-    - COCOFLOSS
+    - PANHANDLER'S
   DOCTOR:
     - ADVANCED VISION SURGER
     - APEX PATHOLOGY
@@ -78,12 +84,17 @@ SUBCATEGORIES: # Under here, you list all the subcategories
     - BOULDER VALLEY EAR NOS
     - BROADLANDS FAMILY DENT
     - COAL CREEK ORAL SURGERY
+    - FOOTHILLSSURGERY
+    - PANORAMA ORTHO
+    - INTEGRATED DERMOTOLOGY
   ELECTRONICS:
     - BEST BUY
     - APPLE
-  FASTFOOD:
+  EVENTS:
+    - GOFAN
+  FAST FOOD:
     - TACO BELL
-    - MCDONALDS
+    - MCDONALD'S
     - SKYLINE CHILI
     - 365 VEND
     - 7-ELEVEN
@@ -107,6 +118,12 @@ SUBCATEGORIES: # Under here, you list all the subcategories
     - TOP GOLF
     - MICROSOFT
     - CHIPPER'S HORSETOOTH
+  GROCERY:
+    - KING SOOPERS
+    - SPROUTS
+    - COSTCO
+    - SAFEWAY
+    - WHOLEFDS
   HAIR:
     - J. BLACK
     - THE PARLOUR
@@ -117,7 +134,7 @@ SUBCATEGORIES: # Under here, you list all the subcategories
     - LOWES
   INSURANCE:
     - AHS
-    - AMERICAN WATER RESOURCE
+    - AMER WATER RESOURCE
     - GEICO
   INTEREST:
     - INTEREST
@@ -149,9 +166,10 @@ SUBCATEGORIES: # Under here, you list all the subcategories
     - LULULEMON PAY
     - BEAUTY COUNTER PAY
     - MODERE PAY
-  PET_FOOD:
+  PET CARE:
     - CHEWY
-  PET_INS:
+    - WAG N WASH
+  PET INS:
     - ASPCA
     - HOME AGAIN
   PHARMACY:
@@ -168,6 +186,7 @@ SUBCATEGORIES: # Under here, you list all the subcategories
     - BOHLENDER FUNERAL
     - BOULDER FRAMEWORKS
     - CERTUS AIRVAC
+    - MEULI LAW
   SHOES:
     - P448
     - ZAPPOS
@@ -188,6 +207,8 @@ SUBCATEGORIES: # Under here, you list all the subcategories
     - SPOTIFY
     - PRIME VIDEO
     - BALLER
+    - PEACOCK
+    - SXM
   TAX_REFUND:
     - STATE_OF_COLORADO
   TOLLS:
@@ -200,7 +221,7 @@ SUBCATEGORIES: # Under here, you list all the subcategories
     - XCEL_ENERGY
     - CITYANDCOUNTYOFB
   VET:
-    - BROOMFIELD_VET
+    - BROOMFIELD VET
 
 
 # You can add as many subcategories as you want.
@@ -210,7 +231,7 @@ SUBCATEGORIES: # Under here, you list all the subcategories
 CATEGORIES:
   AUTO:
     - FUEL
-    - AUTO_SERVICE
+    - AUTO SERVICE
     - TOLLS
   CLOTHING:
     - CLOTHING
@@ -223,7 +244,7 @@ CATEGORIES:
     - COFFEE
     - DELIVERY
     - DINING
-    - FAST-FOOD
+    - FAST FOOD
     - GROCERY
     - BOOZE
   GIFT:
@@ -251,10 +272,11 @@ CATEGORIES:
     - TAX REFUND
   KIDS:
     - COLLEGE PREP
+    - EVENTS
   PET:
-    - PET_FOOD
+    - PET CARE
     - VET
-    - PET_INS
+    - PET INS
   SERVICES:
     - PROFESSIONAL
     - BUSINESS

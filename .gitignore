@@ -4,3 +4,6 @@ __pycache__/
 .env
 .streamlit
 .vscode/
+*.toml
+*.csv
+*.xlsx
